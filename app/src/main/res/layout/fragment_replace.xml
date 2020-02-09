@@ -12,5 +12,5 @@
         android:gravity="center"
         android:text="Replacement"
         android:textColor="#fff"
-        android:textSize="36sp" />
+        android:textSize="36sp"/>
 </LinearLayout>
